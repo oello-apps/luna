@@ -1,0 +1,6 @@
+{
+  "name": "Lune — Menstrual Tracker & Expo Studio",
+  "description": "Interactive two-screen menstrual cycle predictor and downloadable React Native Expo codebase with a crash-free cross-platform date picker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
